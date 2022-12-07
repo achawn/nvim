@@ -1,3 +1,3 @@
 # Neovim Config Files
-![Home](screens/home.png)
-![Open](screens/open-recent.png)
+![Home](lua/screens/home.png)
+![Open](lua/screens/open-recent.png)
