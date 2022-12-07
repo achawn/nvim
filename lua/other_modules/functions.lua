@@ -1,3 +1,5 @@
+-- Thanks Gregory Witek
+-- https://www.notonlycode.org/neovim-lua-config/
 function map(mode, shortcut, command)
   vim.api.nvim_set_keymap(mode, shortcut, command, { noremap = true, silent = true })
 end
